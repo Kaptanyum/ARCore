@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string translatable="false" name="app_name">ARCore Kotlin</string>
+  <string translatable="false" name="depth_use_explanation">Desteklenen cihazlarda ARCore etkinleştirildiğinde, sanal nesneler gerçek dünyayla karışarak ortama uyum sağlar.</string>
+  <string translatable="false" name="button_text_enable_depth">Etkinleştir</string>
+  <string translatable="false" name="button_text_disable_depth">Kapat</string>
+  <string translatable="false" name="options_title_with_depth">Cihazınız ARCore Destekliyor</string>
+  <string translatable="false" name="options_title_without_depth">Cihazınız ARCore desteklemiyor</string>
+  <string translatable="false" name="done">Başarılı</string>
+  <string-array translatable="false" name="depth_options_array">
+    <item>Enable depth</item>
+    <item>Show depth map</item>
+  </string-array>
+  <string translatable="false" name="options_title_instant_placement">Hızlı Yerleştirme Ayarları</string>
+  <string-array translatable="false" name="instant_placement_options_array">
+    <item>Enable Instant Placement</item>
+  </string-array>
+
+  <string translatable="false" name="searching_planes">Yüzey Aranıyor...</string>
+  <string translatable="false" name="waiting_taps">Obje yerleştirmek için ekrana dokunun...</string>
+
+</resources>
