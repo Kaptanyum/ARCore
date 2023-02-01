@@ -1,2 +1,2 @@
 ## Experimental ARCore Application
-[Interrupt Engineering](https://interruptengineering.com/)
+Project belongs to: [Interrupt Engineering](https://interruptengineering.com/)
